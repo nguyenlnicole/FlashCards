@@ -1,2 +1,2 @@
 # FlashCards
-Flash cards on Java
+Flash cards on information about Java
